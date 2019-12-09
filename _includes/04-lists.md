@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+*swimming
+*food
+  *mashed potato
+   *fruits
+  -pasta
+    -all pastas
