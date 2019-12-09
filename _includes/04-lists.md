@@ -1,6 +1,5 @@
 *swimming
 *food
-  *mashed potato
-   *fruits
-  -pasta
-    -all pastas
+  -fruits
+   -pasta
+      all pastas
